@@ -1,4 +1,4 @@
-# Public_domain_poetry
+# Public domain poetry
 Some Norwegian poetry that is in the public domain.
 
 These books are all from [https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-34/]{this} corpus (made by running OCR on book scans). 
